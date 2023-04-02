@@ -1,0 +1,15 @@
+D:\C#\Urok\Ur10\Ur10\bin\Debug\net7.0\Ur10.exe
+D:\C#\Urok\Ur10\Ur10\bin\Debug\net7.0\Ur10.deps.json
+D:\C#\Urok\Ur10\Ur10\bin\Debug\net7.0\Ur10.runtimeconfig.json
+D:\C#\Urok\Ur10\Ur10\bin\Debug\net7.0\Ur10.dll
+D:\C#\Urok\Ur10\Ur10\bin\Debug\net7.0\Ur10.pdb
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.csproj.AssemblyReference.cache
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.AssemblyInfoInputs.cache
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.AssemblyInfo.cs
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.csproj.CoreCompileInputs.cache
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.dll
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\refint\Ur10.dll
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.pdb
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\Ur10.genruntimeconfig.cache
+D:\C#\Urok\Ur10\Ur10\obj\Debug\net7.0\ref\Ur10.dll
